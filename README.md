@@ -1,2 +1,11 @@
-# AWS---Certifications-Projects
-Hands-on experience with AWS through official labs and practical projects, focusing on serverless architectures and cloud-native development. Actively preparing for AWS certifications while working with services such as Lambda, API Gateway, DynamoDB, S3, IAM, Step Functions, and CloudWatch.
+AWS SimuLearn – Selected Hands-On Cloud & Serverless Projects
+dez de 2025 - jan de 2026dez de 2025 - jan de 2026
+PT-BR
+Conclusão completa dos projetos práticos do AWS SimuLearn, desenvolvendo competências sólidas em cloud computing, arquitetura de soluções, serverless, integração de sistemas, segurança, redes, bancos de dados e observabilidade, seguindo boas práticas oficialmente documentadas pela AWS.
+Os projetos cobriram desde fundamentos de nuvem — como modelo de responsabilidade compartilhada, regiões e zonas de disponibilidade — até a implementação de aplicações escaláveis e distribuídas, utilizando AWS Lambda, Amazon API Gateway, Amazon DynamoDB, Amazon RDS, Amazon S3, Amazon CloudFront, Amazon VPC, AWS IAM, Amazon SQS, Amazon SNS, AWS Step Functions, Amazon CloudWatch e AWS X-Ray.
+Foram desenvolvidas APIs RESTful completas, integradas a bancos relacionais e NoSQL, aplicando arquiteturas orientadas a eventos, desacoplamento de serviços, processamento paralelo e triggers automáticos. A modelagem de dados seguiu práticas recomendadas pela AWS, com foco em access patterns, partition keys e escalabilidade.
+Incluiu também o deploy de Single-Page Applications (SPA) com hospedagem estática no S3 e distribuição global via CloudFront, além de configuração de VPCs, subnets, controle de tráfego e isolamento de recursos. Segurança foi tratada como pilar central, com IAM, princípio do menor privilégio e criptografia. Monitoramento e observabilidade foram implementados com CloudWatch e X-Ray.
+O conjunto demonstra capacidade prática alinhada às certificações AWS Certified Cloud Practitioner, Developer – Associate e Solutions Architect – Associate.
+
+EN
+Completed all AWS SimuLearn hands-on projects, developing strong skills in cloud architecture, serverless applications, system integration, security, networking, databases, and observability, following AWS-documented best practices. Projects included building RESTful APIs, event-driven architectures, NoSQL data modeling, SPA deployments, and secure, scalable cloud solutions aligned with AWS certification domains.
