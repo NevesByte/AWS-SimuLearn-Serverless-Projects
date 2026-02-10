@@ -1,4 +1,4 @@
-AWS SimuLearn – Selected Hands-On Cloud & Serverless Projects
+*AWS SimuLearn – Selected Hands-On Cloud & Serverless Projects*
 dez de 2025 - jan de 2026dez de 2025 - jan de 2026
 PT-BR
 Conclusão completa dos projetos práticos do AWS SimuLearn, desenvolvendo competências sólidas em cloud computing, arquitetura de soluções, serverless, integração de sistemas, segurança, redes, bancos de dados e observabilidade, seguindo boas práticas oficialmente documentadas pela AWS.
